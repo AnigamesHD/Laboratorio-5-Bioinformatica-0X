@@ -33,3 +33,7 @@ Cyanobacteria - 39,919 (29.56%)
 
 7960
 ¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?
+
+http://metagenomics.anl.gov/mgmain.html?mgpage=analysis
+http://metagenomics.anl.gov/mgmain.html?mgpage=overview&metagenome=mgm4441593.3
+http://metagenomics.anl.gov/mgmain.html?mgpage=search&search=
