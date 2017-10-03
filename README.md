@@ -27,11 +27,11 @@ Si se dirige hacia el buscador de metagenomas y se flitran los resultados para l
 
 __¿Cuántas reads fueron asignadas a eucariontes según MG-RAST?__
 
-Del proyecto por JVCI Global Ocean Sampling Expedition, para la muestra tomada del sitio de buceo de Dirty Rock, si se dirige hacia "Taxonomic Hits Distribution", en donde se ilustra la distribución taxónomica en donde cada trozo de los gráficos indican el porcentaje de reads con proteinas y genes de RNA ribosomoles predichos (segpun las bases de datos que MG-RAST utiliza), en el gráfico de dominios, éste indica que 20128 reads pertenecen al dominio de eucariontes (14,9%).
+Del proyecto por JVCI Global Ocean Sampling Expedition, para la muestra tomada del sitio de buceo de Dirty Rock, si se dirige hacia "Taxonomic Hits Distribution", en donde se ilustra la distribución taxónomica en donde cada trozo de los gráficos indican el porcentaje de reads con proteinas y genes de RNA ribosomoles predichos (segpun las bases de datos que MG-RAST utiliza), en el gráfico de dominios, éste indica que 20128 reads pertenecen al dominio de eucariontes.
 
 __¿Cuál es el filo (Phylum) más abundante en la muestra?__
 
-Según el gráfico de filo (Phylum), el más abundante es el de Cyanobacterias, con 39919 reads (29,6%).
+Según el gráfico de filo (Phylum), el más abundante es el de Cyanobacterias, con 39919 reads(29.56%).
 
 __¿A cuántas secuencias se les asignó una función de acuerdo a la base de datos KEGG con un e-value entre -10 y -20?__
 
@@ -52,11 +52,7 @@ __¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Re
  
 __¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?__ 
 
-####<strong>-Distribución por género
-
-![Texto Alternativo](http://i.imgur.com/4Czfh0g.png)
-
-#####R.- Del filo de bacterias anterior, al presionar sobre Proteobacterias, se lista la distribución por clase, y al dirigirse hacia la clase de Gammaproteobacteria, se muestra la distribución por el orden, en donde al presionar sobre el orden de Enterobacteriales, se muestra la familia Enterobacteriaceae, y al presionar sobre ésta, se listan la distribución por género, en donde se muestra que para Salmonella, se encuentran 75 secuencias (8,06% del género). 
+ Del filo de bacterias anterior, al presionar sobre Proteobacterias, se lista la distribución por clase, y al dirigirse hacia la clase de Gammaproteobacteria, se muestra la distribución por el orden, en donde al presionar sobre el orden de Enterobacteriales, se muestra la familia Enterobacteriaceae, y al presionar sobre ésta, se listan la distribución por género, en donde se muestra que para Salmonella, se encuentran 77 secuencias. 
 
 
 
