@@ -48,7 +48,7 @@ __¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Re
 
  Al realizar el análisis del metagenoma anterior con los parámetros requeridos (con un e-value máximo de 1e-10 comparando los datos mediante M5NR), al presionar sobre el dominio de bacterias, se lista la distribución por filo (Phylum), indicando que para la categoría de Proteobacterias, se encuentran 26387 secuencias.
  
-__¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?__ 
+__¿Cuántas secuencias de Salmonella (Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?__ 
 
- Del filo de bacterias anterior, al realizar la búsqueda de este dato en las tablas, análisis, filtración  por medio de genus, se observo que para Salmonella, se encuentran 77 secuencias
+ Del filo de bacterias anterior, al realizar la búsqueda de este dato en las tablas, análisis, filtración  por medio de genus, se observo que para Salmonella, se encuentran 77 secuencias.
 
