@@ -9,7 +9,7 @@
 ## Responde:
 __¿Cuántas secuencias fueron subidas?__ 
 
-En la plataforma de MG-RAST para el proyecto metagenoma de JVCI Global Ocean Sampling Expedition, para la muestra tomada del sitio de buceo de Dirty Rock en las Islas Cocos de Costa Rica, se indican 120,671 secuencias subidas (Upload: Sequences Count). 
+En la plataforma de MG-RAST para el proyecto metagenoma de JVCI Global Ocean Sampling Expedition, para la muestra tomada del sitio de buceo de Dirty Rock en las Islas Cocos de Costa Rica, se indican 120,671 secuencias subidas. 
 
 __¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos?__
 
@@ -46,7 +46,7 @@ __¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?_
 __¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Redraw para usar reads en vez de proporciones (raw))__
 
 
- Al realizar el análisis del metagenoma anterior con los parámetros requeridos (con un e-value máximo de 1e-10 comparando los datos mediante M5NR), en la pestaña de "Organism barchart 1", se muestra la distribución de dominios, y al presionar sobre el dominio de bacterias, se lista la distribución por filo (Phylum), indicando que para la categoría de Proteobacterias, se encuentran 26387 secuencias.
+ Al realizar el análisis del metagenoma anterior con los parámetros requeridos (con un e-value máximo de 1e-10 comparando los datos mediante M5NR), al presionar sobre el dominio de bacterias, se lista la distribución por filo (Phylum), indicando que para la categoría de Proteobacterias, se encuentran 26387 secuencias.
  
 __¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?__ 
 
