@@ -41,17 +41,16 @@ __¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?_
 
  Los hits resultantes por la base de datos de SwissProt, son considerablemente menores en comparación al resto. En MG-RAST, las barras en Source Hits Distribution, representan las reads anotadas, en donde las bases de datos tienen un número diferente de hits, que depende de la cantidad de datos que la base de datos tenga para que la secuencia colocada se le asigne una función dentro de esa base de datos según la similitud que haya, produciendo hits. El hecho de que SwissProt haya producido un menor número de hits, se debe a que es una base de datos curada, es decir, que la información que la base de datos contiene está revisada, lo cual la diferencia de por ejemplo, otras bases de datos que producieron un mayor número de hits, como GenBank y TREMBL, dado que estas últimas corresponden a bases de datos no-curadas. Al estar no curadas, esto hace rfrencia a que pueden contener secuencias redundantes, más entradas referentes a un sólo proyecto, secuencias hipotéticas, etc, por lo que generará un mayor número de hits al contener más entradas. SwissProt por su parte, contiene anotaciones de alta calidad, es no-redundante, y es de referencia cruzada con otras bases de datos, por lo que resultará en un menor número de hits al contener menos anotaciones, pero éstas estarán revisadas; por lo que la diferencia en secuencias similares a las predichas de la muestra recae en el estado de curación que existe entre las bases de datos.
 
-####<strong>Análisis de metagenomas</strong>
+## Análisis de metagenomas
 
-####<strong>Responde:
-####1. ¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Redraw para usar reads en vez de proporciones (raw))
+## Responde:
 
-####<strong>-Distribución por filo
+__¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Redraw para usar reads en vez de proporciones (raw))__
 
-![Texto Alternativo](http://i.imgur.com/z2ej6qX.png)
 
-#####R.- Al realizar el análisis del metagenoma anterior con los parámetros requeridos (con un e-value máximo de 1e-10 comparando los datos mediante M5NR), en la pestaña de "Organism barchart 1", se muestra la distribución de dominios, y al presionar sobre el dominio de bacterias, se lista la distribución por filo (Phylum), indicando que para la categoría de Proteobacterias, se encuentran 22452 secuencias (29,98% del filo).
-####2. ¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas? 
+ Al realizar el análisis del metagenoma anterior con los parámetros requeridos (con un e-value máximo de 1e-10 comparando los datos mediante M5NR), en la pestaña de "Organism barchart 1", se muestra la distribución de dominios, y al presionar sobre el dominio de bacterias, se lista la distribución por filo (Phylum), indicando que para la categoría de Proteobacterias, se encuentran 26387 secuencias.
+ 
+__¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?__ 
 
 ####<strong>-Distribución por género
 
