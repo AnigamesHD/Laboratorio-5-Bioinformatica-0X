@@ -1,5 +1,3 @@
-# Laboratorio-5-Bioinformatica-0X
-
 # Laboratorio 05 Bioinformática
 
 ## Nombre: Byron Guzmán Marín
@@ -31,7 +29,7 @@ Del proyecto por JVCI Global Ocean Sampling Expedition, para la muestra tomada d
 
 __¿Cuál es el filo (Phylum) más abundante en la muestra?__
 
-Según el gráfico de filo (Phylum), el más abundante es el de Cyanobacterias, con 39919 reads(29.56%).
+Según el gráfico de filo (Phylum), el más abundante es el de Cyanobacterias, con 39919 reads (29.56%).
 
 __¿A cuántas secuencias se les asignó una función de acuerdo a la base de datos KEGG con un e-value entre -10 y -20?__
 
@@ -52,27 +50,5 @@ __¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Re
  
 __¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?__ 
 
- Del filo de bacterias anterior, al presionar sobre Proteobacterias, se lista la distribución por clase, y al dirigirse hacia la clase de Gammaproteobacteria, se muestra la distribución por el orden, en donde al presionar sobre el orden de Enterobacteriales, se muestra la familia Enterobacteriaceae, y al presionar sobre ésta, se listan la distribución por género, en donde se muestra que para Salmonella, se encuentran 77 secuencias. 
+ Del filo de bacterias anterior, al realizar la búsqueda de este dato en las tablas, análisis, filtración  por medio de genus, se observo que para Salmonella, se encuentran 77 secuencias
 
-
-
-¿Cuántas secuencias pasaron el control de calidad? ¿A qué crees que se refiere esto?
-
-¿Cuántos otros metagenomas están disponibles para el bioma “marine habitat”?
-6055
-
-¿Cuántas reads fueron asignadas a eucariontes según MG-RAST?
-
-20128
-¿Cuál es el filo (Phylum) más abundante en la muestra?
-
-Cyanobacteria - 39,919 (29.56%)
-
-¿A cuántas secuencias se les asignó una función de acuerdo a la base de datos KEGG con un e-value entre -10 y -20?
-
-7960
-¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?
-
-http://metagenomics.anl.gov/mgmain.html?mgpage=analysis
-http://metagenomics.anl.gov/mgmain.html?mgpage=overview&metagenome=mgm4441593.3
-http://metagenomics.anl.gov/mgmain.html?mgpage=search&search=
